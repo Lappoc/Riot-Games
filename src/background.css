@@ -1,0 +1,87 @@
+.Background-circle-one{
+    width: 655px;
+    height: 656px;
+    margin-left: -100px;
+    margin-top: -281px;
+    border-radius: 50%;
+  
+    position: relative;
+    display: inline-block;
+  
+    background: #FF4656;
+  }
+  .Background-circle-two{
+    width: 23px;
+    height: 23px;
+    margin-left: -500px;
+    top: 270px;
+    border-radius: 50%;
+  
+    position: relative;
+    display: inline-block;
+  
+    background: #505155;
+  }
+  .Background-circle-tree{
+    width: 170px;
+    height: 170px;
+    margin-left: 0px;
+    top: 450px;
+    border-radius: 50%;
+  
+    position: relative;
+    display: inline-block;
+    
+    background: #EFEFEF;
+  }
+  .Background-circle-four{
+    width: 343px;
+    height: 343px;
+    margin-left: 988px;
+    top: 100px;
+  
+    border-radius: 50%;
+  
+    position: relative;
+    display: inline-block;
+  
+    background: #292C31;
+  }
+  .Background-circle-five{
+    width: 10px;
+    height: 10px;
+    margin-left: 1156px;
+    top: -780px;
+  
+    border-radius: 50%;
+  
+    position: relative;
+    display: inline-block;
+  
+    background: #FF4656;
+  }
+  .Background-circle-six{
+    width: 80px;
+    height: 80px;
+    left: -56px;
+    top: -690px;
+  
+    border-radius: 50%;
+  
+    position: relative;
+    display: inline-block;
+  
+    background: #EFEFEF;
+  }
+  .Background-circle-seven{
+    width: 25px;
+    height: 25px;
+    margin-left: 1200px;
+    top: -690px;
+    border-radius: 50%;
+  
+    position: relative;
+    display: inline-block;
+  
+    background: #505155;
+  }
