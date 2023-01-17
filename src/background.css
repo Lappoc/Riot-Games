@@ -1,8 +1,8 @@
 .Background-circle-one{
-    width: 655px;
-    height: 656px;
-    margin-left: -100px;
-    margin-top: -281px;
+    width: 45.486vw;
+    height:  80vh;
+    margin-left: -6.95vw;
+    margin-top: -19.514vw;
     border-radius: 50%;
   
     position: relative;
@@ -11,10 +11,10 @@
     background: #FF4656;
   }
   .Background-circle-two{
-    width: 23px;
-    height: 23px;
-    margin-left: -500px;
-    top: 270px;
+    width: 1.597vw;
+    height: 2.8048vh;
+    margin-left: -34.722vw;
+    top: 25.75vw;
     border-radius: 50%;
   
     position: relative;
@@ -23,10 +23,10 @@
     background: #505155;
   }
   .Background-circle-tree{
-    width: 170px;
-    height: 170px;
+    width: 11.805vw;
+    height: 20.732vh;
     margin-left: 0px;
-    top: 450px;
+    top: 38.25vw;
     border-radius: 50%;
   
     position: relative;
@@ -35,10 +35,10 @@
     background: #EFEFEF;
   }
   .Background-circle-four{
-    width: 343px;
-    height: 343px;
-    margin-left: 988px;
-    top: 100px;
+    width: 23.819vw;
+    height: 41.829vh;
+    margin-left: 83.611vw;
+    top: 16.61vw;
   
     border-radius: 50%;
   
@@ -48,10 +48,10 @@
     background: #292C31;
   }
   .Background-circle-five{
-    width: 10px;
-    height: 10px;
-    margin-left: 1156px;
-    top: -780px;
+    width: 0.694vw;
+    height: 1.219vh;
+    margin-left: 89.277vw;
+    top: -54.166vw;
   
     border-radius: 50%;
   
@@ -61,10 +61,10 @@
     background: #FF4656;
   }
   .Background-circle-six{
-    width: 80px;
-    height: 80px;
-    left: -56px;
-    top: -690px;
+    width: 5.555vw;
+    height: 9.756vh;
+    left: -3.889vw;
+    top: -46.916vw;
   
     border-radius: 50%;
   
@@ -74,10 +74,10 @@
     background: #EFEFEF;
   }
   .Background-circle-seven{
-    width: 25px;
-    height: 25px;
-    margin-left: 1200px;
-    top: -690px;
+    width: 1.736vw;
+    height: 3.0488vh;
+    margin-left: 93.33vw;
+    top: -47.916vw;
     border-radius: 50%;
   
     position: relative;
