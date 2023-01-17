@@ -26,10 +26,10 @@
     display: flex;
     align-items: center;
 
-    width: 71vw;
+    width: 70vw;
     height: 10vh;
     border-radius: 10px 10px 0px 0px;
-    padding: 0 30px 0 30px ;
+    padding: 0 1.5vw 0 1.5vw ;
     
     background: #1F2326;
 }
@@ -57,8 +57,8 @@
     align-items: center;
 
     width: 39.722vw;
-    height: 5vh;
-    border-radius: 10px 10px 0px 0px;
+    /* height: 5vh; */
+    /* border-radius: 10px 10px 0px 0px; */
     
     background: #1F2326;
     
@@ -168,7 +168,7 @@ hr{
     font-family: 'Druk Wide', sans-serif;
     font-style: normal;
     font-weight: 800;
-    font-size: 14vh;
+    font-size: 11vh;
     text-align: center;
     text-shadow: 0 0 2px #fff;
     color: #0A0718;
@@ -183,7 +183,7 @@ hr{
     font-family: 'Druk Wide', sans-serif;
     font-style: normal;
     font-weight: 900;
-    font-size: 7.5vh;
+    font-size: 5.5vh;
     text-align: center;
     text-shadow: 0 0 0.8px #fff;
     color: #0A0718;
@@ -223,7 +223,7 @@ hr{
     width: 5vh;
     height: 35.488vh;
     margin-top: -24vw;
-    margin-left: -2vw;
+    margin-left: -1.9vw;
 }
 .Agents-skill{
     /* width: 100px; */
@@ -251,7 +251,7 @@ hr{
     width: 1.5vw;
 }
 .skill4{
-    width: 1vw;
+    width: 1.5vw;
 }
 
 
@@ -271,8 +271,6 @@ hr{
 .description{
     width: 20vw;
     height: 11vh;
-    /* background-color: #EFEFEF; */
-    /* border:#1F2326 solid 1px ; */
 
     background:linear-gradient(135deg, transparent 5px, #EFEFEF 0);
     filter: drop-shadow(1px 1px 1px #1F2326);
@@ -317,7 +315,7 @@ hr{
     font-family: 'Druk Wide', sans-serif;
     font-style: normal;
     font-weight: 1000;
-    font-size: 2vw;
+    font-size: 1.5vw;
     /* line-height: 52px; */
 
     color: #C4C4C4;
@@ -343,7 +341,7 @@ hr{
     font-family: 'Druk Wide', sans-serif;
     font-style: normal;
     font-weight: 100;
-    font-size: 0.8vw;
+    font-size: 0.6vw;
     /* line-height: 52px; */
 
     color: #1F2326;
@@ -378,7 +376,7 @@ hr{
         width: 46.5vw;
     }
     .Game-menu-list{
-        width: 72.2vw;
+        width: 72.7vw;
         height: 10vh;
     }
     .Game-pers{
