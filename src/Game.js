@@ -54,6 +54,7 @@ const Game = () => {
                         <img src={PolygonW}/>
                     </div>
                 </div>
+//Создать массив
                 <div className='Game-background-image'>
                     <div className='Game-pers'>
                         <p className='agents'>AGENTS</p>
